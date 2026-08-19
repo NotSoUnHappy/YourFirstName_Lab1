@@ -1,11 +1,11 @@
 // YourFirstName_Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
+using namespace std;
 #include <iostream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello from Dylan! This is my first Git commit.";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
